@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/LeoLanehh/bibliophilic/static/css/main.8597984e.chunk.css",
+    "main.js": "/LeoLanehh/bibliophilic/static/js/main.b66a34dd.chunk.js",
+    "main.js.map": "/LeoLanehh/bibliophilic/static/js/main.b66a34dd.chunk.js.map",
+    "runtime-main.js": "/LeoLanehh/bibliophilic/static/js/runtime-main.852e1a16.js",
+    "runtime-main.js.map": "/LeoLanehh/bibliophilic/static/js/runtime-main.852e1a16.js.map",
+    "static/js/2.7c16de3a.chunk.js": "/LeoLanehh/bibliophilic/static/js/2.7c16de3a.chunk.js",
+    "static/js/2.7c16de3a.chunk.js.map": "/LeoLanehh/bibliophilic/static/js/2.7c16de3a.chunk.js.map",
+    "static/js/3.c8cb1579.chunk.js": "/LeoLanehh/bibliophilic/static/js/3.c8cb1579.chunk.js",
+    "static/js/3.c8cb1579.chunk.js.map": "/LeoLanehh/bibliophilic/static/js/3.c8cb1579.chunk.js.map",
+    "index.html": "/LeoLanehh/bibliophilic/index.html",
+    "static/css/main.8597984e.chunk.css.map": "/LeoLanehh/bibliophilic/static/css/main.8597984e.chunk.css.map",
+    "static/js/2.7c16de3a.chunk.js.LICENSE.txt": "/LeoLanehh/bibliophilic/static/js/2.7c16de3a.chunk.js.LICENSE.txt",
+    "static/media/1.17aec4e8.jpg": "/LeoLanehh/bibliophilic/static/media/1.17aec4e8.jpg",
+    "static/media/1.923e9c53.jpg": "/LeoLanehh/bibliophilic/static/media/1.923e9c53.jpg",
+    "static/media/10.0aed5b1a.jpg": "/LeoLanehh/bibliophilic/static/media/10.0aed5b1a.jpg",
+    "static/media/11.84b60b90.jpg": "/LeoLanehh/bibliophilic/static/media/11.84b60b90.jpg",
+    "static/media/style.css": "/LeoLanehh/bibliophilic/static/media/38.9019876e.jpg",
+    "static/media/13.692521fd.jpg": "/LeoLanehh/bibliophilic/static/media/13.692521fd.jpg",
+    "static/media/15.923e9c53.jpg": "/LeoLanehh/bibliophilic/static/media/15.923e9c53.jpg",
+    "static/media/16.eeaa3b72.jpg": "/LeoLanehh/bibliophilic/static/media/16.eeaa3b72.jpg",
+    "static/media/17.36a43a51.jpg": "/LeoLanehh/bibliophilic/static/media/17.36a43a51.jpg",
+    "static/media/18.934c4242.jpg": "/LeoLanehh/bibliophilic/static/media/18.934c4242.jpg",
+    "static/media/2.2f147347.jpg": "/LeoLanehh/bibliophilic/static/media/2.2f147347.jpg",
+    "static/media/2.35cd179b.jpg": "/LeoLanehh/bibliophilic/static/media/2.35cd179b.jpg",
+    "static/media/3.b5aeb26e.jpg": "/LeoLanehh/bibliophilic/static/media/3.b5aeb26e.jpg",
+    "static/media/4.4af91073.jpg": "/LeoLanehh/bibliophilic/static/media/4.4af91073.jpg",
+    "static/media/7.36a43a51.jpg": "/LeoLanehh/bibliophilic/static/media/7.36a43a51.jpg",
+    "static/media/8.4a4bff03.jpg": "/LeoLanehh/bibliophilic/static/media/8.4a4bff03.jpg",
+    "static/media/9.eeaa3b72.jpg": "/LeoLanehh/bibliophilic/static/media/9.eeaa3b72.jpg",
+    "static/media/flexslider.css": "/LeoLanehh/bibliophilic/static/media/flexslider-icond41d.dafa1c01.eot",
+    "static/media/font-awesome.min.css": "/LeoLanehh/bibliophilic/static/media/fontawesome-webfontd41d.7f77840e.eot",
+    "static/media/logo.6ce24c58.svg": "/LeoLanehh/bibliophilic/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.852e1a16.js",
+    "static/js/2.7c16de3a.chunk.js",
+    "static/css/main.8597984e.chunk.css",
+    "static/js/main.b66a34dd.chunk.js"
+  ]
+}
